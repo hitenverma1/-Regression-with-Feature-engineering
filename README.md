@@ -4,7 +4,7 @@
 
 * Developed a linear regression model to predict house prices
 
-* Used Python, scikit-learn, Pandas, and Numpy for data manipulation and analysis
+* Used Python, scikit-learn, Pandas, Numpy, seaborn and matplotlib for data manipulation and analysis
 
 * Achieved an R-squared value of 0.85.
 
